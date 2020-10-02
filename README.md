@@ -15,6 +15,8 @@ A lab using jQuery and AJAX
 
   - Actual time needed to complete: 30 minutes
 
+<hr>
+
 - 10/01 Klace and I started building app.js file with constructor function and networking files.
 
   - Number and name of feature: Feature 1 / Display images
@@ -26,15 +28,15 @@ A lab using jQuery and AJAX
   - Finish time: 8:25
 
   - Actual time needed to complete: 2 hours
-
-<hr>
+<br>
 
   - Number and name of feature: Feature 2 / Filter Images
 
-  - Estimate of time needed to complete:
+  - Estimate of time needed to complete: 1 hour
 
-  - Start time:
+  - Start time: 8:26
 
-  - Finish time:
+  - Finish time: DNF
 
-  - Actual time needed to complete:
+  - Actual time needed to complete: N/A
+  

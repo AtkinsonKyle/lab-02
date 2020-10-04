@@ -2,7 +2,7 @@
 
 let $template = $('#picture-temp');
 let $dropdown = $('#dropdown');
-let $container = $('.container')
+let $container = $('.container');
 
 function Pictures(image, title, description, keyword, horns) {
   this.image = image;

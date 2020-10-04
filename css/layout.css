@@ -1,7 +1,36 @@
+
 h1 {
+  font-family: 'Lobster', cursive;
   text-align: center;
+  font-size: 50px;
+}
+
+h2{
+  font-family: 'Lobster', cursive;
+  font-size: 30px;
 }
 
 img {
   height: 200px;
 }
+section{
+  float: right;
+  clear: left;
+  /* background-color: chartreuse; */
+  width: 400px;
+  height: 280px;
+  text-align: center;
+  margin: 3px;
+  padding: 5px;
+  /* display: none; */
+}
+
+
+
+
+
+/* Images, header tags, 
+header footer
+class 
+id
+*/

@@ -50,7 +50,7 @@ LAB 03
 
   - Start time: 6:30pm
 
-  - Finish time: DNF
+  - Finish time: 7:28pm
 
-  - Actual time needed to complete: N/A
+  - Actual time needed to complete: 58 MIN
   

@@ -40,3 +40,17 @@ A lab using jQuery and AJAX
 
   - Actual time needed to complete: N/A
   
+
+
+LAB 03
+
+  - Number and name of feature: Feature 1 / Pagination
+
+  - Estimate of time needed to complete: 1 hour
+
+  - Start time: 6:30pm
+
+  - Finish time: DNF
+
+  - Actual time needed to complete: N/A
+  

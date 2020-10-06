@@ -3,3 +3,6 @@ body {
 }
 main {
     background-color: crimson;
+    border: cyan;
+    border-width: 5px;
+}
